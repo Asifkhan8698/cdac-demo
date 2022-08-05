@@ -1,0 +1,48 @@
+cp -r 'source' 'destination' = To copy.
+rm -r file name = To Delete.
+mv file new file = To rename the file.
+pwd = Total Path
+ls(short listing) = To show file in the directry.
+ll(long listing) = To show all info of directory.
+set nu ==> To show Numbers.
+u ==> To undo changes.
+yy = Copy.
+p = Paste.
+dd = Delete/Cut.
+
+To Copy in Windows:
+cp -r file/folder name /mnt/d/CDAC
+
+To Copy in Ubuntu:
+cp -r /mnt/
+
+==================================
+#include <stdio.h>
+as helloasm.s -o hello.o = To assemble and give objectfile.
+ld helloasm.o system.o -o hello1 = Linking object file to system.o and make output file.
+./hello1 = To run from current directry.
+cc -S hellohl.c = simply compile (using S)
+cc filename.c -o run = To compile the file and give run file.
+cc -C filename.c = Compile and gives object file	
+objdump = Allows you to look inside 'o' files.
+objdump -t filename.o
+ld -shared primes.o -o primes.so = to create shared object for dynamic linking.
+cc -D LINUX_64 syssvctest.c -o run = for conditional compilation. 
+
+=============================================================================================
+
+#include <cstdio>
+c++ filename.cpp -o run = To compile in CPP Lang.
+
+========================================================
+
+python3 = to link and run in python..
+
+=========================================================
+Java==>
+vi ~/glassfish6/glassfish/domains/domain1/config/domain.xml = To change the port of glassfish port.
+-d = used to mention location of output directry...
+
+Ecclipse Short cuts::::
+
+sysout + CTRL + SPACEBAR = gives you System.out.println("");
